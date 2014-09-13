@@ -6,8 +6,6 @@ Script utilities for the [mongo shell](http://docs.mongodb.org/v2.2/mongo/).
 
 To use mongo99 just open a mongo shell, and copy paste the [mongo99.js script](mongo99.js).
 
-## Functionalities
-
 ### Copy indexes from one server to another one
 
 Sometimes you need to ensure that all the indexes on one DB map perfectly to the indexes of another DB.
