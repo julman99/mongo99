@@ -17,7 +17,7 @@ Sometimes you need to ensure that all the indexes on one DB map perfectly to the
 - On the first DB, run:
 
 ```javascript
-mongo99.createImportIndexCommand();
+mongo99.exportIndexes();
 ```
 
 - Copy the full output of that command, and then paste it on the mongo shell of the DB you
