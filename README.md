@@ -4,7 +4,7 @@ Script utilities for the [mongo shell](http://docs.mongodb.org/v2.2/mongo/).
 
 ## Using mongo99
 
-To use mongo99 just open a mongo shell, and copy paste the [mongo99.js script](mongo99.js).
+To use mongo99 just open a mongo shell, and copy paste the [mongo99.js script](https://raw.githubusercontent.com/julman99/mongo99/master/mongo99.js).
 
 ### Copy indexes from one server to another one
 
